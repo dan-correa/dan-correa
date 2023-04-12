@@ -5,7 +5,7 @@
 - 🔭 Trabalhando com back-end
 - 🌱 Aprendendo mais sobre java e Spring Boot
 - 📫 Como falar comigo: https://www.linkedin.com/in/daniel-correa-alves/
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/dan-correa">
