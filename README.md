@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando com back-end
-- 🌱 Aprendendo mais sobre java e Spring Boot
+- 🌱 Aprendendo cada dia mais sobre java e Spring Boot, Kafka, Kotlin, Engenharia de Software e muito mais. 
 - 📫 Como falar comigo: https://www.linkedin.com/in/daniel-correa-alves/
 
 
